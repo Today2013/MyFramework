@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.author             = { “today2013” => “today@***.com" }
   s.platform     = :ios
   s.source       = { :git => "https://github.com/Today2013/MyFramework.git"， :tag => "0.0.1" }
-  s.source_files  = ‘MyFramework/MyFramework/**/*.swift’
+  s.source_files  = ‘MyFramework/**/*.swift’
 end
